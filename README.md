@@ -1,5 +1,5 @@
 # RNA e Deep Learning - CESAR School 2024.01
-![RNA e Deep Learning](banner.png)
+![RNA e Deep Learning](docs/banner.png)
 ## Aluno
 > Nome: Marlos Ribeiro  
 > E-mail: mgrb@cesar.school
@@ -10,10 +10,17 @@ A cada entrega de Atividades (AT) está em uma pasta, e para a entrega do Trabal
 
 ## Estrutura do repositório
 ```
-📁 .
-└── 📁 RNA_DeepLearning
-   ├── 📁 'Atividade 1.1'
-   ├── 📁 'Trabalho Final'
-   ├── 🖼️ banner.png
-   └── 📄 README.md
+📁 ./
+├── 📁 Atividades
+│   ├── 📁 1 - Intro
+│   │   ├── 📊 clusters.csv
+│   │   ├── 📓 Perfils_Clustering.ipynb
+│   │   └── 📊 PesquisaPerfis.csv
+│   └── 📁 2 - Linear Regretion
+├── 📁 docs
+│   └── 🖼️ banner.png
+├── 📄 pyproject.toml
+├── 📄 README.md
+├── 📁 Trabalho Final
+└── 🔒 uv.lock   
 ```
